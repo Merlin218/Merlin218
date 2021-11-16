@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hi,Guys 👋 Nice to meet u!</h1>
 
-**I'm Merlin,a college student 👨🏻‍🎓 from Dongguan, China 🇨🇳.**
+**I'm Merlin,a college student 👨🏻‍🎓 from Dongguan, China 🇨🇳  .**
 
 **Something about me:**
 
