@@ -18,7 +18,7 @@
 
 **「 [掘金](https://juejin.cn/user/1847596772237719) 」「 [Leetcode](https://leetcode-cn.com/u/merlin218/) 」「 [Bilibili](https://space.bilibili.com/8227630) 」**
 
-**Also you can contact me through the email 📫 863176846@qq.com**
+**Also you can contact me through the email 863176846@qq.com**
 
 **Looking forward to hearing from you!**
 
