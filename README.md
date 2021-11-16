@@ -1,4 +1,4 @@
-# **[<img src="https://i.loli.net/2021/11/17/1sPmUyc4RTMr6fL.gif" alt="img" style="zoom: 33%;" />](https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330) Hi,Guys 👋 Nice to meet u!**
+# **[<img src="https://i.loli.net/2021/11/17/1sPmUyc4RTMr6fL.gif" alt="img" style="zoom: 50%;" />](https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330) Hi,Guys 👋 Nice to meet u!**
 
 **I'm Merlin,a college student👨🏻‍🎓 from Dongguan, China🇨🇳.**
 
@@ -18,7 +18,7 @@
 
 **「 [掘金](https://juejin.cn/user/1847596772237719) 」「 [Leetcode](https://leetcode-cn.com/u/merlin218/) 」「 [Bilibili](https://space.bilibili.com/8227630) 」**
 
-**Also you can contact me through the email 📫 863176846@qq.com**
+**Also you can contact me through the email 📫  863176846@qq.com**
 
 **Looking forward to hearing from you!**
 
