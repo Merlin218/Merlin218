@@ -22,5 +22,5 @@
 
 **Looking forward to hearing from you!**
 
-**[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin218&hide_border=true&layout=compact" alt="Top Langs" style="zoom:90%;" />](https://github.com/anuraghazra/github-readme-stats)**[<img src="https://github-readme-stats.vercel.app/api?username=Merlin218&theme=vue&hide_border=true&hide=contribs,prs&show_icons=true" alt="Anurag's GitHub stats" style="zoom:80%;" />](https://github.com/anuraghazra/github-readme-stats)
+**[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin218&hide_border=true&layout=compact" alt="Top Langs" style="zoom:90%;" />](https://github.com/anuraghazra/github-readme-stats)**[<img src="https://github-readme-stats.vercel.app/api?username=Merlin218&theme=vue&hide_border=true&show_icons=true" alt="Anurag's GitHub stats" style="zoom:80%;" />](https://github.com/anuraghazra/github-readme-stats)
 
