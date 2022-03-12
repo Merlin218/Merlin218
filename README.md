@@ -16,7 +16,7 @@
 
 **You can find me from these following places!**
 
-**「 [掘金](https://juejin.cn/user/1847596772237719) 」「 [Leetcode](https://leetcode-cn.com/u/merlin218/) 」「 [Bilibili](https://space.bilibili.com/8227630) 」**
+**「 [Blog](https://www.merlin218.top) 」「 [掘金](https://juejin.cn/user/1847596772237719) 」「 [Leetcode](https://leetcode-cn.com/u/merlin218/) 」「 [Bilibili](https://space.bilibili.com/8227630) 」**
 
 **Also you can contact me through the email 863176846@qq.com**
 
