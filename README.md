@@ -22,4 +22,4 @@
   </p>
 </samp>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin218&hide_border=true&layout=compact" alt="Top Langs" style="zoom:90%;" /><img src="https://github-readme-stats.vercel.app/api?username=Merlin218&theme=vue&hide_border=true&show_icons=true" alt="Anurag's GitHub stats" style="zoom:80%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Merlin218&theme=vue&hide_border=true&show_icons=true" alt="Anurag's GitHub stats" />
