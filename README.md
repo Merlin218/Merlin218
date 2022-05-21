@@ -1,28 +1,25 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hi,Guys 👋 Nice to meet u!</h1>
-
-**I'm Merlin,a college student 👨🏻‍🎓 from Dongguan, China 🇨🇳  .**
-
-**Skills:**
-
-![JavaScript](https://camo.githubusercontent.com/a1309b252e82434062012a8073fa9fc1416a96289b7ca11555577b9fbe1cf03e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d2532334637444631433f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d303030303030266c6162656c436f6c6f723d25323346374446314326636f6c6f723d253233464643453541)
-![TypeScript](https://camo.githubusercontent.com/d60afb008bc0bcde7ea8720637928cb02c0f9a6d795dad7382f688a17e7515de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
-
-![Vue.js](https://camo.githubusercontent.com/92dce0dff7b0a18f12fc3e00e63355c99cfd7f0cc53fb9bd536aaa4b8b7fc3a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5675652e6a732d2532333263336535303f7374796c653d666c61742d737175617265266c6f676f3d767565646f746a73)
-
-![Webpack](https://camo.githubusercontent.com/642e843f9aa33ce2969085744bf1eebf22d91f28c3c3cca8f545e9ebcdef83cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d2532333243334134323f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b)
-![Vite](https://camo.githubusercontent.com/5416db96270644b1fbec4708892a752ab7545c12c996ca0ae980c80eeec1eae2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d566974652d2532333634364346463f7374796c653d666c61742d737175617265266c6f676f3d76697465266c6f676f436f6c6f723d666666666666) **...**
-
-**IDE:**
-
-![VSCode](https://camo.githubusercontent.com/f30491a1c341147136840d3ce75f7b97068782aad038cb52aad45ed2e6145c0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030303f266c6f676f3d56697375616c25323053747564696f253230436f6465266c6f676f436f6c6f723d303037414343)
-
-**You can find me from these following places!**
-
-**「 [Blog](https://www.merlin218.top) 」「 [掘金](https://juejin.cn/user/1847596772237719) 」「 [Leetcode](https://leetcode-cn.com/u/merlin218/) 」「 [Bilibili](https://space.bilibili.com/8227630) 」**
-
-**Also you can contact me through the email 863176846@qq.com**
-
-**Looking forward to hearing from you!**
+<samp>
+  <h1>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  
+    Hi,Guys 👋 Nice to meet u!
+  </h1>
+  <p>I'm Merlin,a college student 👨🏻‍🎓 from Dongguan, China 🇨🇳  .</p>
+  <p style="font-weight:800;">
+    Projects 👉🏻
+    <a href="https://www.merlin218.top/">blog</a> 
+    <a href="https://data2chart.all1024.com/">table2chart</a> 
+    <a href="https://uno.merlin218.top/">UNO-game</a>
+  </p>
+  <p style="font-weight:800;">
+    Plugins 👉🏻
+    <a href="https://github.com/Merlin218/vuepress-plugin-auto-navbar">vuepress-plugin-auto-navbar</a>
+  </p>  
+  <p>
+    You can find me from these following places!
+    <a href="https://juejin.cn/user/1847596772237719">掘金</a>
+    <a href="https://space.bilibili.com/8227630">bilibili</a>
+    <a href="mailto:863176846@qq.com">email</a>
+  </p>
+</samp>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Merlin218&hide_border=true&layout=compact" alt="Top Langs" style="zoom:90%;" /><img src="https://github-readme-stats.vercel.app/api?username=Merlin218&theme=vue&hide_border=true&show_icons=true" alt="Anurag's GitHub stats" style="zoom:80%;" />
-
