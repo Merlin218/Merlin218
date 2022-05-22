@@ -1,9 +1,9 @@
 <samp>
   <h1>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  
-    Hi,Guys 👋 Nice to meet u!
+    Hi, Guys 👋 Nice to meet u!
   </h1>
-  <p>I'm Merlin,a college student 👨🏻‍🎓 from Dongguan, China 🇨🇳  .</p>
+  <p>I'm Merlin, a college student from Dongguan, China🇨🇳 .</p>
   <p style="font-weight:800;">
     Projects 👉🏻
     <a href="https://www.merlin218.top/">blog</a> 
