@@ -6,7 +6,7 @@
   <p>I'm Merlin, a college student from Dongguan, China🇨🇳 .</p>
   <p style="font-weight:800;">
     Projects 👉🏻
-    <a href="https://www.merlin218.top/">blog</a> 
+    <a href="https://blog.merlin218.top/">blog</a> 
     <a href="https://data2chart.all1024.com/">table2chart</a> 
     <a href="https://uno.merlin218.top/">UNO-game</a>
   </p>
