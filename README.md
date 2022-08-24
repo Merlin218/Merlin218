@@ -6,8 +6,8 @@
   <p>I'm Merlin, a college student from China🇨🇳 .</p>
   <p style="font-weight:800;">
     👉🏻 My Repositories
-    🎰 <a href="https://github/Merlin-Chest">some projects</a> 
-    📚 <a href="https://github/learn-xxx">learn some useful</a> 
+    🎰 <a href="https://github.com/Merlin-Chest">some projects</a> 
+    📚 <a href="https://github.com/learn-xxx">learn some useful</a> 
   </p>
   <p style="font-weight:800;">
     👉🏻 My Plugins
