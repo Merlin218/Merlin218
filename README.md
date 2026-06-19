@@ -18,10 +18,9 @@ Most of my recent work is about making AI products feel usable in real workflows
 - [vscode-extension-command-dock](https://github.com/Merlin218/vscode-extension-command-dock) - Custom terminal command buttons for VS Code/Cursor.
 - [vite-plugin-antd-style-px-to-rem](https://github.com/Merlin218/vite-plugin-antd-style-px-to-rem) - Responsive px-to-rem conversion for `antd-style`.
 - [vuepress-plugin-auto-navbar](https://github.com/Merlin218/vuepress-plugin-auto-navbar) - Automatic navbar generation for VuePress.
-- [wechat-bot](https://github.com/Merlin218/wechat-bot) - AI-powered WeChat bot experiments.
 
 ## Links
 
-[Blog](https://blog.merlin218.top) · [Juejin](https://juejin.cn/user/1847596772237719) · [LeetCode](https://leetcode.cn/u/merlin218) · [Email](mailto:863176846@qq.com)
+[Blog](https://blog.merlin218.top) · [Juejin](https://juejin.cn/user/1847596772237719) · [Email](mailto:863176846@qq.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Merlin218&theme=vue&hide_border=true&show_icons=true" alt="Merlin218 GitHub stats" />
