@@ -4,13 +4,14 @@
 
 I build [Magic](https://github.com/Merlin218/magic) and small tools around AI workflows, frontend productivity, and developer experience.
 
-Most of my recent work is about making AI products feel usable in real workflows: edit, preview, save, export, publish, recover, then keep iterating until the rough edges disappear.
+Most of my recent work is inside Magic: turning agent output into usable product artifacts, from self-media workspaces, AI cards, slide templates, and HTML micro-apps to file previews, editor details, export paths, and the runtime contracts that make those workflows dependable.
 
 ## Focus
 
-- Magic: AI productivity surfaces, rich editors, file previews, self-media workflows, and agent-facing contracts.
-- Tiny tools: VS Code/Cursor helpers, Vite plugins, VuePress plugins, and automation scripts that remove repetitive work.
-- Product engineering: small UI details, reliable state transitions, and workflow feedback that makes the next action obvious.
+- Magic artifact workflows: self-media creation, AI card generation, slide templates, PPT/export, recording summaries, and website/file/knowledge previews.
+- Agent and runtime contracts: SuperMagic skills, `html-api-sdk`, micro-app architecture, iframe filesystem APIs, `magic.project.js`, and validation docs.
+- Product-facing frontend systems: rich message editing, model selection, element inspection, mobile/desktop preview surfaces, localization, and state feedback.
+- Reliability details: safe URLs, sandbox boundaries, upload/file operations, asset performance, and recovery paths that keep generated work usable.
 
 ## Projects
 
