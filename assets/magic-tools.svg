@@ -1,6 +1,6 @@
 <svg width="960" height="320" viewBox="0 0 960 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Magic and tiny tools animated banner</title>
-  <desc id="desc">An animated banner with flowing lines connecting Magic, AI workflows, and tiny developer tools.</desc>
+  <title id="title">Magic creation platform animated banner</title>
+  <desc id="desc">An animated banner with flowing lines connecting ideas, AI artifacts, clear workflows, and tiny tools.</desc>
   <style>
     :root {
       --bg-a: #0f172a;
@@ -138,8 +138,8 @@
     <circle cx="39" cy="35" r="5" fill="#fca5a5"/>
     <circle cx="58" cy="35" r="5" fill="#fde68a"/>
     <circle cx="77" cy="35" r="5" fill="#86efac"/>
-    <text x="24" y="91" fill="var(--muted)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">workflow.run(</text>
-    <text x="48" y="122" fill="var(--green)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">"edit-preview-save"</text>
+    <text x="24" y="91" fill="var(--muted)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">Magic.create(</text>
+    <text x="48" y="122" fill="var(--green)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">"ideas to artifacts"</text>
     <text x="24" y="153" fill="var(--muted)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">)</text>
     <rect class="cursor" x="52" y="164" width="10" height="24" rx="3" fill="var(--mint)"/>
   </g>
@@ -148,18 +148,21 @@
     <circle class="orb" cx="104" cy="82" r="76" fill="#0b1220" fill-opacity=".9" stroke="url(#line)" stroke-width="2"/>
     <circle class="orb two" cx="104" cy="82" r="50" fill="#13251f" fill-opacity=".7" stroke="#86efac" stroke-opacity=".45"/>
     <text x="104" y="76" text-anchor="middle" fill="var(--ink)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="32" font-weight="800">Magic</text>
-    <text x="104" y="106" text-anchor="middle" fill="var(--muted)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">AI workflows</text>
+    <text x="104" y="106" text-anchor="middle" fill="var(--muted)" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14">creation platform</text>
   </g>
 
   <g transform="translate(678 62)">
     <rect width="220" height="56" rx="16" fill="#0b1220" fill-opacity=".76" stroke="#86efac" stroke-opacity=".34"/>
-    <text x="26" y="36" fill="var(--ink)" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="700">tiny dev tools</text>
+    <text x="24" y="36" fill="var(--ink)" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="700">Create better</text>
 
-    <rect x="28" y="82" width="170" height="44" rx="14" fill="#122238" fill-opacity=".76" stroke="#7dd3fc" stroke-opacity=".28"/>
-    <text x="52" y="110" fill="var(--mint)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">cmd dock</text>
+    <rect x="18" y="82" width="184" height="44" rx="14" fill="#122238" fill-opacity=".76" stroke="#7dd3fc" stroke-opacity=".28"/>
+    <text x="44" y="110" fill="var(--mint)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">AI artifacts</text>
 
     <rect x="0" y="144" width="204" height="44" rx="14" fill="#1b2433" fill-opacity=".78" stroke="#fde68a" stroke-opacity=".28"/>
-    <text x="24" y="172" fill="var(--gold)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">vite plugin</text>
+    <text x="24" y="172" fill="var(--gold)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">clear workflows</text>
+
+    <rect x="30" y="206" width="170" height="44" rx="14" fill="#0f1b2d" fill-opacity=".78" stroke="#86efac" stroke-opacity=".28"/>
+    <text x="54" y="234" fill="var(--green)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">tiny tools</text>
   </g>
 
   <g class="spark" fill="var(--gold)">
